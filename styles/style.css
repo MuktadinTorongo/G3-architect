@@ -21,6 +21,12 @@
     border: 0;
 }
 
+.section-title{
+    color: #131313;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
 /* header styles */
 header{
     background: rgba(225, 144, 14, 0.10);
@@ -31,12 +37,6 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.nav-title{
-    color: #131313;
-    font-size: 2.8rem;
-    font-weight: 700;
 }
 
 nav > ul{
@@ -106,10 +106,7 @@ main{
     color: #727272;
     font-weight: 500;
 }
-.teams-content .of-our{
-    color: #131313;
-    font-weight: 700;
-}
+
 .teams-content .features{
     color: #FF900E;
     font-weight: 700;
