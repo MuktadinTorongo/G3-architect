@@ -84,6 +84,7 @@ main{
     margin: 70px auto;
 }
 
+/* Teams Styles */
 .teams-container{
     display: flex;
     align-items: center;
@@ -109,7 +110,7 @@ main{
     font-weight: 500;
 }
 
-.teams-content .features{
+.teams-content .Features{
     color: #FF900E;
     font-weight: 700;
 }
